@@ -8,5 +8,6 @@
 - Form submission FormSubmit
 - Tailwind UI as Styles Library
 - Deployed to Cloudflare
+- Live Demo Link: https://ecc83ffe.gym-landing-typescript.pages.dev/
 
 ![Build Status](https://drive.google.com/uc?id=1bozPaUElS9FFWM382buuOYi_dIQHZhkq)
